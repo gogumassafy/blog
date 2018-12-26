@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : MFT
+title                    : MFT(My favorite team)
 title_separator          : "-"
-name                     : Your Name
+name                     : JO SEONG-WON
 description              : "SSAFY 2반"
 url                      : "https://gogumassafy.github.io/blog-minimal-mistakes/"
 baseurl                  : "blog-minimal-mistakes"
