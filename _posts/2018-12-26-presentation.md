@@ -2,4 +2,4 @@
 title: MFT Presentation
 ---
 
-https://gitpitch.com/ssafy2018/public#/
+https://gitpitch.com/chulsea/MFT/
