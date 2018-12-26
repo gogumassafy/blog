@@ -1,11 +1,12 @@
----
-title: 자기 주도 학습
----
-
-# 주제 1
-
-연습  1
-
-# 주제 2
-
-연습2
+# main links
+main:
+  - title: "about us"
+    url: https://gogumassafy.github.io/blog-minimal-mistakes/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
