@@ -1,3 +1,7 @@
+---
+title: 자기 주도 학습
+---
+
 # [1주차 Reflection] Design Thinking
 
 > 우리만의 새로운 서비스를 기획하는 과정을 바탕으로 각 과정 정리.
